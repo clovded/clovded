@@ -3,5 +3,5 @@
 </div>
 
 <div align="start">
-  <img src="hirono.png" align="right" width="150">
+  <img src="hirono.png" align="right" width="150" height="150">
 </div>
